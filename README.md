@@ -1,27 +1,31 @@
   <div align=center>
-    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/bemvindo.png" alt="Descrição da Imagem">
+    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/bemvindo.png" alt="Bem-vindo!">
   </div>
 
 <h3 align=center>Bom te ver por aqui!</h3>
 <h4 align=center>Me chamo Júnior. Sou estudante de 'S.I.', músico e atualmente estou desenvolvendo um e-RPG. Muito prazer!</h4>
 
   <div align=left>
-    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/linguagens.png" alt="Descrição da Imagem">
+    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/linguagens.png" alt="Linguagens">
   </div>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
   <div align=left>
-    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/aprendendo.png" alt="Descrição da Imagem">
+    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/aprendendo.png" alt="Aprendendo">
   </div>
 
   <div align=left>
-    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/projetos.png" alt="Descrição da Imagem">
+    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/projetos.png" alt="Projetos">
   </div>
 
+  <a href="https://github.com/jjuniorbrasil/OS-Project">
+          <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/osproj.png" alt="O.S. Project">
+    </a>
+
   <div align=left>
-    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/ferramentas.png" alt="Descrição da Imagem">
+    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/ferramentas.png" alt="Ferramentas">
   </div>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
