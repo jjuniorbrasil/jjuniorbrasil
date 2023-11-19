@@ -1,4 +1,4 @@
-!['Welcome' image](assets\bemvindo.png "Bem-vindo! [+20 pontos pela curiosidade]")
+!['Welcome' image](https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/bemvindo.png "Bem-vindo! [+20 pontos pela curiosidade]")
 
 
 
