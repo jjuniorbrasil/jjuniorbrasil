@@ -1,8 +1,10 @@
-!['Welcome' image](https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/bemvindo.png "Bem-vindo! [+20 pontos pela curiosidade]")
+  <div align=center>
+    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/bemvindo.png" alt="Descrição da Imagem">
+  </div>
 
+<h3 align=center>Bom te ver por aqui!</h3>
+<h4 align=center>Me chamo Júnior. Sou estudante de 'S.I.', músico e atualmente estou desenvolvendo um e-RPG. Muito prazer!</h4>
 
-
-Olá, me chamo Júnior! Sou estudante de 'S.I.', músico, artista e atualmente estou desenvolvendo um e-RPG.
 ## Linguagens de Programação
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
