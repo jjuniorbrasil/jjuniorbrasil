@@ -5,7 +5,7 @@
   
 
 <h3 align=center>Bom te ver por aqui!</h3>
-<h4 align=center>Me chamo Júnior. Sou estudante de 'S.I.', músico e atualmente estou desenvolvendo um e-RPG. Muito prazer!</h4>
+<h4 align=center>Me chamo Júnior. Sou estudante de 'S.I.', músico e, atualmente, estou desenvolvendo um e-RPG. Muito prazer!</h4>
 
   <div align=left>
     <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/linguagens.png" alt="Linguagens">
