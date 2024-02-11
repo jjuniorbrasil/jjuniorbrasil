@@ -49,7 +49,7 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
   <div align=left>
-    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/redes sociais.png" alt="Descrição da Imagem">
+    <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/redes sociais.png" alt="Redes sociais">
   </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jjuniorbrasil/)
