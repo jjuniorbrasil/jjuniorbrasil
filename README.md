@@ -1,4 +1,4 @@
-  <div align=center>
+ <div align=center>
     <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/bemvindo.png" alt="Bem-vindo!">
   </div>
   <div align=center><img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/tumblr_897f0ea89a8da00d66cd21b5e7565f26_5a484600_250.gif" alt="Bem-vindo!" width="50" height="50"></div>
