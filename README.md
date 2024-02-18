@@ -30,7 +30,10 @@
   <div align=left>
     <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/projetos.png" alt="Projetos">
   </div>
-
+  
+  <a href="https://github.com/jjuniorbrasil/projetos-front">
+          <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/tumblr_218f4aadc6b66021e2dabcea61b95ddc_2ef179ce_500-ezgif.com-animated-gif-maker.gif" alt="O.S. Project">
+    </a>
   <a href="https://github.com/jjuniorbrasil/OS-Project">
           <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/osproj.png" alt="O.S. Project">
     </a>
