@@ -26,19 +26,6 @@
     <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/projetos.png" alt="Projetos">
   </div>
 
-
-   <a href="https://github.com/Rethink3D">
-    <img src="https://github.com/user-attachments/assets/85b305c4-a854-49f0-b433-482e67209c55" width=250 alt="Rethink3D">
-   </a>
-
-   <a href="https://at-the-risk-of-feeling-dumb.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/56e190a1-2a08-4baf-a785-7b7f8da45750" width=250 alt="At The Risk of Feeling Dumb">
-   </a>
-  
-  <a href="https://github.com/jjuniorbrasil/OS-Project">
-          <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/osproj.png" alt="O.S. Project">
-    </a>
-
   <div align=left>
     <img src="https://github.com/jjuniorbrasil/jjuniorbrasil/blob/main/assets/redes sociais.png" alt="Redes sociais">
   </div>
